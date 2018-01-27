@@ -6,7 +6,7 @@ package com.formation.app;
 public class App
 {
 
-    private final String message = "Hello World! Martin";
+    private final String message = "Hello World!";
 
     public App() {}
 
